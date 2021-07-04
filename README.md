@@ -1,0 +1,1 @@
+# RGB-Mask-to-Single-Channel-Mask-for-Multiclass-Segmentation
